@@ -6,10 +6,10 @@ const CocktailApp = () => {
     name: "The Dockerino",
     description: "Containerized intoxication.",
     ingredients: [
-      { amount: "½", item: "Lime Juice" },
-      { amount: "1", item: "Cointreau" },
-      { amount: "2", item: "Midori" },
-      { amount: "4", item: "Sprite" }
+      { amount: "0.5", item: "Lime Juice" },
+      { amount: "1.0", item: "Cointreau" },
+      { amount: "2.0", item: "Midori" },
+      { amount: "4.0", item: "Sprite" }
     ]
   };
 
