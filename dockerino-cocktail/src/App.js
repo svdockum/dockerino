@@ -54,6 +54,7 @@ const CocktailApp = () => {
           // RECIPE_ID_8842
         </div>
       </div>
+      <div style={{ height: '100px' }}></div>
     </>
   );
 };
