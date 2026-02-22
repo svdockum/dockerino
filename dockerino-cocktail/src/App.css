@@ -17,11 +17,13 @@ body {
   background-color: var(--dark-bg);
   font-family: 'VT323', monospace;
   color: var(--neon-green);
-  overflow: hidden;
-  height: 100vh;
+  overflow-y: auto;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  padding: 2rem 0 8rem;
+  box-sizing: border-box;
 }
 
 /* CRT Scanline Overlay */
