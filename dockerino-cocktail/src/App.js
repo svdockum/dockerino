@@ -51,7 +51,6 @@ const CocktailApp = () => {
           borderTop: '1px solid var(--neon-blue)', 
           paddingTop: '5px' 
         }}>
-          {'// RECIPE_ID_8842'}
         </div>
       </div>
       <div style={{ height: '100px' }}></div>
